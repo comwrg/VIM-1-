@@ -18,13 +18,16 @@
 `'[`			最后一次进入编辑模式的地方 <br />
 `']`			最后一次退出编辑模式的地方 <br />
 
+## Making small changes (usr_04)
+`D`
+`C`
+`X`
+`s`
+
+`y2w` `y2e` diff? <br />
+`cis`
+
+`dw` `db`
 
 
-
-
-
-
-
-
-
-vim: set noet:
+vim: set noet:sw=4:
