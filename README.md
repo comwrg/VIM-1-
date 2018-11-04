@@ -29,6 +29,27 @@
 ## usr_05
 `:options`
 
+## usr_07
+`:args` `:args *.txt`
+
+`:fir[st]` `:la[st]`
+
+`:n[ext]` `:N[ext]`
+
+`C-^`
+
+`'"` `'.`
+
+`delm[arks]`
+
+`"fyas`
+
+`vim -R file` `vim -M file`
+
+`:sav[eas]` `:f[ile]`
+
+
+
 
 
 
