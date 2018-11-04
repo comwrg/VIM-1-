@@ -26,5 +26,13 @@
 
 `dw` `db`
 
+## usr_05
+`:options`
+
+
+
+
+
+
 
 vim: set noet:sw=4:
