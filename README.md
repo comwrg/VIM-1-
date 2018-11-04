@@ -4,12 +4,9 @@
 然后呢，平时使用Vim的时候顺带用上，什么时候觉得自己会了，就把那条命令删掉 <br />
 
 ## jumps, marks (from usr_03)
-`CTRL-O`		Go to [count] Older cursor position in jump list <br />
-`CTRL-I`		Go to [count] newer cursor position in jump list <br />
-`:ju[mps]`		Print the jump list <br />
-`:cle[arjumps]`	Clear the jump list of the current window <br />
-`''`			可以在两个位置来回跳 <br />
-`m'`			可以把现在这个位置加入jump list <br />
+`:ju[mps]` <br />
+`:cle[arjumps]` <br />
+`m'` <br />
 
 另外跳行操作`:n`和`nG`(这个n代表你要跳到哪一行) <br />
 只有`nG`会把将原来的位置加入jump list <br /> 
