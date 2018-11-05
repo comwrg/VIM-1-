@@ -30,7 +30,7 @@
 `:options`
 
 ## usr_07
-`:args` `:args *.txt`
+`:ar[gs]` `:args *.txt`
 
 `:fir[st]` `:la[st]`
 
@@ -47,6 +47,23 @@
 `vim -R file` `vim -M file`
 
 `:sav[eas]` `:f[ile]`
+
+
+## usr_08
+`:clo[se]` or `C-W_c` <br />
+`:on[ly]` or `C-W_o` <br />
+`sp[lit]` or `C-W_s` <br />
+`{height}C-w _` <br />
+`:vs[plit]` or `C-W_v` <br />
+`C-W_t` <br />
+`C-W_b` <br />
+
+`qa[ll]` <br />
+`wa[ll]` <br />
+
+`tab sp[lit]` <br />
+`tabo[nly]` <br />
+
 
 
 
